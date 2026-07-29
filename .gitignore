@@ -1,0 +1,10 @@
+﻿# Bob AI task files
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
